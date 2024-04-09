@@ -1,4 +1,4 @@
-package LinewHeadkedList;
+package LinkedList;
 
 import java.util.*;
 
